@@ -1,11 +1,11 @@
 body{
-    background-color: ;
-    color: antiquewhite;
+    background-color:lightgray ;
+    color:black;
     font-family: sans-serif;
     line-height: 1.6;
 }
 header{
-    background-color: beige;
+    background-color: green;
     color: black;
     text-align: center;
 }
@@ -13,7 +13,7 @@ header{
 
 
 footer{
-    background-color: chocolate;
+    background-color: rgb(91, 134, 91);
     color: aliceblue;
     text-align: center;
 
