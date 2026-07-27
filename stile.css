@@ -5,17 +5,20 @@ body{
     line-height: 1.6;
 }
 header{
-    background-color: #1a5632;
+    background-color: lightgray;
     color: #ffffff;
     text-align: center;
 }
 h1{
     font-size: 30px;
     letter-spacing: 1px;
+    color: rgb(151, 5, 3);
+     background-color: darkgrey;
 }
 h2{
     color: #1a5632;
     font-size: 22px;
+    color: rgb(151, 5, 3); background-color: darkgrey;
 }
 strong{
     color: #b5179e;
@@ -30,4 +33,7 @@ footer{
     background-color: #3d3d3d;
     color: #fdfaf5;
     text-align: center;
+}
+a:hover{
+    color: red;
 }
