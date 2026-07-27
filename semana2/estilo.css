@@ -1,23 +1,42 @@
 body{
-    background-color: brown;
-    color: beige;
+    background-color: lightgray;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
 
-header, h1, h2, h3, footer, a{
-    font-family: monospace;
-    color: beige;
+.bonito{
+    background-color: brown;
+    font-weight: bold;
+    color: black;
+}
+    
+    
 
-} 
 
 
 .titulo{
     font-size: 40px;
     letter-spacing: 1px;
     font-family: verdana,arial,sans-serif;
+    
 }
 
 .subtitulo{
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+a:hover{
+    color: black;
+}
+
+
+footer{
+    background-color: brown;
+    color: beige;
 }
