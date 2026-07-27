@@ -1,16 +1,17 @@
-body	{ background-color:	#fdfaf5;
-     color:	3d3d3d; 
-     font-family:	Verdana,	Arial,	sans-serif;
-      line-height:	1.6;
-     } 
-     header	{ background-color:	#1a5632;
-     color:	#ffffff;
+body{
+     background-color:	#fdfaf5;
+    color:	3d3d3d; 
+    font-family:	Verdana,	Arial,	sans-serif;
+    line-height:	1.6;
+ } 
+ header{ background-color:	#1a5632;
+      color:	#ffffff;
       text-align:	center; 
  }
- h1	{ font-size:	30;
+ h1{ font-size:	30;
         letter-spacing:	1px;
  } 
- h2	{
+ h2{
         text-color:	#1a5632;
         font-size:	22px;
  }
@@ -22,7 +23,7 @@ body	{ background-color:	#fdfaf5;
         font-weight:	bold;
          text-align:	center;
 }
- footer	{
+ footer{
        background-color:	#3d3d3d;
       color:	#fdfaf5;
      text-align:	center;
