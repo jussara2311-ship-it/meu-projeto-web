@@ -1,0 +1,23 @@
+body{
+    background-color: brown;
+    color: beige;
+}
+
+header, h1, h2, h3, footer, a{
+    font-family: monospace;
+    color: beige;
+
+} 
+
+
+.titulo{
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-family: verdana,arial,sans-serif;
+}
+
+.subtitulo{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
