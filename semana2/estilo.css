@@ -1,14 +1,22 @@
+
 body{
-    background-color: lightgray;
+    background-color: lightgrey;
     color: black;
-    
-    
+    line-height: 1.6;
+
 }
+
+header{
+    background-color: brown;
+    color: beige;
+}
+
 
 .bonito{
     background-color: brown;
     font-weight: bold;
     color: black;
+    
 }
 
  .fonte {
